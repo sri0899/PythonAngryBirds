@@ -2,7 +2,8 @@ Angry Birds in Python
 =====================
 [Youtube Video](https://youtu.be/ntURJAhX50w)
 
-![Alt text](/resources/images/angry-birds-image.png?raw=true "angry-birds")
+<img width="1339" height="721" alt="image" src="https://github.com/user-attachments/assets/3786ecfe-b1b0-439c-9698-a7e90835ca71" />
+
 
 Requirements
 ------------
