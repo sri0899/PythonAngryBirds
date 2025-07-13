@@ -25,7 +25,8 @@ Zero Gravity
 
 Activate &  Deactivate the wall
 -------------------------------
-![Alt text](/resources/images/walls.png?raw=true "angry-birds")
+<img width="1354" height="725" alt="image" src="https://github.com/user-attachments/assets/5fac4fbe-0545-420e-b81b-33a3f062845e" />
+
 * To activate or deactivate the wall press key w.
 
 Join the project
